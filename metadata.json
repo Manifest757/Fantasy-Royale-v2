@@ -1,0 +1,7 @@
+{
+  "name": "Fantasy Royale",
+  "description": "A high-performance fantasy sports contest engine and engagement platform for brands, offices, and fans.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
